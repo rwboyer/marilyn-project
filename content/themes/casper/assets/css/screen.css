@@ -1036,6 +1036,22 @@ body:not(.post-template) .post-title {
     line-height: 1.5em;
 }
 
+.post-thumb{
+  width: 21rem;
+  height: 21rem;
+  overflow: hidden;
+  float: left;
+  margin-right: 4rem;
+}
+
+.post-thumb img{
+  width: 100%;
+}
+
+.post-after-thumb{
+/*  float: left; */
+}
+
 
 /* ==========================================================================
    5. Single Post - When you click on an individual post
