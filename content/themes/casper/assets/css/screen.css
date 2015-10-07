@@ -1042,6 +1042,9 @@ body:not(.post-template) .post-title {
   overflow: hidden;
   float: left;
   margin-right: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .post-thumb img{
